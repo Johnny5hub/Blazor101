@@ -2,6 +2,10 @@
 
 ## Input File (images (Elaine)
  (upload file. show uploaded file, save in db, display image)
+ https://www.youtube.com/watch?v=GkdtXGaODLY  (Upload Images) 
+ https://www.youtube.com/watch?v=C0q5sER8BMU&list=PLsy6XyZKcUKCjp4_5FZ-t3P29lXREcNCR&index=22  (Display uploaded image)
+
+ https://www.youtube.com/watch?v=UpRfyngS4qg&t=916s
  
 # Fstore 
  
