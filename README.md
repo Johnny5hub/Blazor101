@@ -1,9 +1,9 @@
 # something
 
-#Input File (images (Elaine)
+## Input File (images (Elaine)
  (upload file. show uploaded file, save in db, display image)
  
-#Fstore 
+# Fstore 
  
 ## SQL Code 
 > - [DDL Code](#ddl-code)
@@ -15,7 +15,9 @@
 > > > > > > - [Insert into Freguesias 4 ( )](#insert-freguesias4)
 
 
-#DDL code
+# DDL code
+
+
 ```sql
 
 use LojaF;
@@ -40,7 +42,7 @@ FOREIGN KEY (ConcelhoID) REFERENCES Concelhos (ConcelhoID));
 
 ```
 
-#DML code
+# DML code
 
 ```sql
 
@@ -391,7 +393,11 @@ SELECT * FROM Concelhos;
 
 ```
 
-#Insert Freguesias1
+# Insert Freguesias1
+
+
+#### [back to top](#Fstore)
+
 
 ```SQL
 
@@ -1394,7 +1400,7 @@ SELECT * FROM Freguesias;
 ```
 
 
-#Insert Freguesias2
+# Insert Freguesias2
 
 
 
@@ -2406,7 +2412,7 @@ SELECT * FROM Freguesias;
 ```
 
 
-#Insert Freguesias3
+# Insert Freguesias3
 
 
 #### [back to top](#Fstore)
@@ -3417,7 +3423,7 @@ SELECT * FROM FREGUESIAS
 ``` 
 
 
-#Insert Freguesias4
+# Insert Freguesias4
 
 
 
