@@ -418,7 +418,7 @@ SELECT * FROM Concelhos;
 ```SQL
 
 
-INSERT INTO Freguesias (FreguesiaNome, ConcelhoID)
+INSERT INTO Freguesias (FreguesiaNome, ConcelhoID, DistritoID)
 VALUES 
 ('Altares','1','1'),
 ('Cinco Ribeiras','1','1'),
@@ -1427,7 +1427,7 @@ SELECT * FROM Freguesias;
 
 ```SQL
 
-INSERT INTO Freguesias (FreguesiaNome, ConcelhoID)
+INSERT INTO Freguesias (FreguesiaNome, ConcelhoID, DistritoID)
 VALUES 
 ('Alcaide','82','6'),
 ('Alcaria','82','6'),
@@ -2440,7 +2440,7 @@ SELECT * FROM Freguesias;
 
 ```SQL 
 
-INSERT INTO Freguesias (FreguesiaNome, ConcelhoID)
+INSERT INTO Freguesias (FreguesiaNome, ConcelhoID, DistritoID)
 VALUES
 ('Ancede e Ribadouro','210','15'),
 ('Baião (Santa Leocádia) e Mesquinhata','210','15'),
@@ -3451,7 +3451,7 @@ SELECT * FROM FREGUESIAS
 
 
 ```SQL
-INSERT INTO Freguesias (FreguesiaNome, ConcelhoID)
+INSERT INTO Freguesias (FreguesiaNome, ConcelhoID, DistritoID)
 VALUES
 ('Avelal','301','20'),
 ('Ferreira de Aves','301','20'),
