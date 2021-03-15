@@ -1,4 +1,4 @@
-´´´sql
+```sql
 
 use LojaF;
 GO
@@ -20,4 +20,4 @@ FreguesiaNome NVARCHAR (50) NOT NULL,
 ConcelhoID INT NOT NULL, 
 FOREIGN KEY (ConcelhoID) REFERENCES Concelhos (ConcelhoID));
 
-´´´
+```
