@@ -61,7 +61,7 @@ FOREIGN KEY (DistritoID) REFERENCES Distritos (DistritoID));
 
 ```sql
 
-use LojaF;
+use Loja_F01;
 GO
 
 INSERT INTO Distritos (DistritoNome)
