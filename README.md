@@ -3,14 +3,16 @@
 #Input File (images (Elaine)
  (upload file. show uploaded file, save in db, display image)
  
+#Fstore 
  
 ## SQL Code 
 > - [DDL Code](#ddl-code)
 > - [DML Code](#dml-code)
 > > - [Insert Concelhos](#insert-conselhos)
-> > > - [Insert into Freguesias](#insert-freguesias1)
-> > > > - [DML Code](#insert-freguesias2)
-> > > > > - [DML Code](#insert-freguesias3)
+> > > - [Insert into Freguesias 1 ( )](#insert-freguesias1)
+> > > > - [Insert into Freguesias 2 ( )](#insert-freguesias2)
+> > > > > - [Insert into Freguesias 3 ( )](#insert-freguesias3)
+> > > > > > - [Insert into Freguesias 4 ( )](#insert-freguesias4)
 
 
 #DDL code
