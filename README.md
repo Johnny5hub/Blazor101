@@ -1,3 +1,6 @@
+# something
+
+#DDl
 ```sql
 
 use LojaF;
@@ -21,3 +24,5 @@ ConcelhoID INT NOT NULL,
 FOREIGN KEY (ConcelhoID) REFERENCES Concelhos (ConcelhoID));
 
 ```
+
+#DML
