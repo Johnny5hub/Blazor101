@@ -7,8 +7,8 @@
 ## SQL Code 
 > - [DDL Code](#ddl-code)
 > - [DML Code](#dml-code)
-> > - Insert Concelhos](#insert-conselhos)
-> > > - [DML Code](#insert-freguesias1)
+> > - [Insert Concelhos](#insert-conselhos)
+> > > - [Insert into Freguesias](#insert-freguesias1)
 > > > > - [DML Code](#insert-freguesias2)
 > > > > > - [DML Code](#insert-freguesias3)
 
@@ -1390,7 +1390,15 @@ VALUES
 ('Verdelhos','81');
 SELECT * FROM Freguesias;
 ```
+
+
 #Insert Freguesias2
+
+
+
+#### [back to top](#Fstore)
+
+
 
 ```SQL
 
@@ -2393,6 +2401,17 @@ VALUES
 ('Vila Garcia, Aboim e Chapa','209'),
 ('Vila Meã (Real, Ataíde e Oliveira)','209');
 SELECT * FROM Freguesias;
+```
+
+
+#Insert Freguesias3
+
+
+#### [back to top](#Fstore)
+
+
+
+```SQL 
 
 INSERT INTO Freguesias (FreguesiaNome, ConcelhoID)
 VALUES
@@ -3396,9 +3415,18 @@ SELECT * FROM FREGUESIAS
 ``` 
 
 
+#Insert Freguesias4
+
+
+
+#### [back to top](#Fstore) 
+
+
+
 ```SQL
 INSERT INTO Freguesias (FreguesiaNome, ConcelhoID)
 
 
 
 ```
+#### [back to top](#Fstore) 
