@@ -370,20 +370,20 @@ SELECT * FROM Concelhos;
 
 INSERT INTO Freguesias (FreguesiaNome, ConcelhoID)
 VALUES 
-('Altares	','1'),
-('Cinco Ribeiras	','1'),
-('Doze Ribeiras	','1'),
-('Feteira	','1'),
-('Nossa Senhora da Conceição	','1'),
-('Posto Santo	','1'),
-('Raminho	','1'),
-('Ribeirinha	','1'),
-('Santa Bárbara	','1'),
-('Santa Luzia	','1'),
-('São Bartolomeu de Regatos	','1'),
-('São Bento	','1'),
-('São Mateus da Calheta	','1'),
-('São Pedro	','1'),
+('Altares','1'),
+('Cinco Ribeiras','1'),
+('Doze Ribeiras','1'),
+('Feteira','1'),
+('Nossa Senhora da Conceição','1'),
+('Posto Santo','1'),
+('Raminho','1'),
+('Ribeirinha','1'),
+('Santa Bárbara','1'),
+('Santa Luzia','1'),
+('São Bartolomeu de Regatos','1'),
+('São Bento','1'),
+('São Mateus da Calheta','1'),
+('São Pedro','1'),
 ('Sé','1'),
 ('Serreta','1'),
 ('Terra Chã	','1'),
@@ -394,9 +394,9 @@ VALUES
 ('Ribeira Seca','2'),
 ('Santo Antão','2'),
 ('Topo','2'),
-('Angústias	','4'),
+('Angústias','4'),
 ('Capelo','4'),
-('Castelo Branco	','4'),
+('Castelo Branco','4'),
 ('Cedros','4'),
 ('Conceição','4'),
 ('Feteira','4'),
@@ -1364,8 +1364,6 @@ VALUES
 ('Vale Formoso e Aldeia do Souto','81'),
 ('Verdelhos','81');
 SELECT * FROM Freguesias;
-
-
 
 
 
