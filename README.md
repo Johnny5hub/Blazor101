@@ -14,6 +14,9 @@
 > > > > > - [Insert into Freguesias 3 ( )](#insert-freguesias3)
 > > > > > > - [Insert into Freguesias 4 ( )](#insert-freguesias4)
 
+### 20 Distritos (18 Continentais + 2 insulares (1 Açores + 1 Madeira)) 
+### 308 Concelhos ( 278 Continentais + 30 insulares (19 Açores + 11 Madeira)) 
+### 3083 Freguesias (2874 Continentais + 209 insulares (155 Açores + 54 Madeira))
 
 # DDL code
 
